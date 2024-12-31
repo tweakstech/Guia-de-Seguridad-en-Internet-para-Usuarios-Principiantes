@@ -18,8 +18,10 @@ Es recomendable utilizar navegadores que prioricen la privacidad. Algunos ejempl
   - **[Privacy Badger](https://privacybadger.org/es/)**: Bloquea rastreadores invisibles mientras navegas.
   - **[Ghostery](https://www.ghostery.com)**: Ayuda a bloquear anuncios y rastreadores para una navegación más segura.
 
-- Si usas **[Brave](https://brave.com)**:
-  - **[Privacy Badger](https://privacybadger.org/es/)**: Bloquea rastreadores invisibles y mejora la privacidad, ya que Brave no tiene Ghostery disponible como extensión.
+Si usas **[Brave](https://brave.com)**:
+  - **[Privacy Badger](https://privacybadger.org/es/)**: Bloquea rastreadores invisibles y mejora la privacidad.
+
+**Nota**: **Ghostery** funciona mal en navegadores que no son Firefox, por lo que no es una opción recomendada para Brave u otros navegadores basados en Chromium.
 
 - **[SquareX](https://sqrx.com/)**:
   - Una extensión todo-en-uno que proporciona una **sandbox** (aislación segura para navegación), **mail temporal** (para crear correos desechables) y **VPN** (para ocultar tu ubicación y proteger tu conexión). Ideal para quienes buscan un paquete completo de privacidad y seguridad en línea.
