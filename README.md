@@ -1,4 +1,4 @@
-# Guía de Seguridad en Internet para Usuarios Principiantes: Protección, Privacidad y Herramientas Básicas
+# Guía de Seguridad en Internet para Usuarios 👶 Principiantes: Protección 🛡️, Privacidad 🔒 y Herramientas Básicas 🛠️
 
 Esta guía está diseñada para personas que no tienen conocimientos técnicos avanzados y buscan proteger su privacidad en línea sin necesidad de gastar dinero. Aquí encontrarás soluciones simples y gratuitas para mejorar la seguridad de tu dispositivo, proteger tu información personal y navegar de forma más segura en Internet. 
 
