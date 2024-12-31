@@ -28,6 +28,7 @@ Es recomendable utilizar navegadores que prioricen la privacidad. Algunos ejempl
 > Configurar extensiones de privacidad es un paso simple pero efectivo para evitar rastreadores y anuncios intrusivos.
 
 ## 2. Cortafuegos (Firewall)
+
 Usar un cortafuegos es esencial para controlar el acceso a tu red y proteger tu equipo de conexiones no deseadas.
 
 Algunas opciones de cortafuegos son:
@@ -35,7 +36,7 @@ Algunas opciones de cortafuegos son:
 - **[SimpleWall](https://github.com/henrypp/simplewall)**: Un firewall sencillo y fácil de usar.
 - **[TinyWall](https://tinywall.pados.hu)**: Ofrece protección adicional sin requerir demasiada configuración.
 - **[Portmaster](https://safing.io/portmaster/)**: Un cortafuegos completo y gratuito para Windows que ofrece control avanzado sobre las conexiones de red, con un enfoque en la privacidad y la seguridad.
-- **[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)**: Un firewall avanzado para Linux que permite controlar las conexiones de red de forma detallada y proteger tu privacidad en línea.
+- **[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)**: Un firewall avanzado para macOS que permite controlar las conexiones de red de forma detallada y proteger tu privacidad en línea.
 
 > [!IMPORTANT]
 > Configura tu cortafuegos para que bloquee aplicaciones y conexiones no deseadas de forma predeterminada.
