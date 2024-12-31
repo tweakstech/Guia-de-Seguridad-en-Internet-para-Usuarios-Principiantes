@@ -15,7 +15,7 @@ echo.
 echo Verificando si la virtualización está habilitada en el sistema...
 
 :: Verifica si la virtualización está habilitada
-wmic cpu get SecondLevelAddressTranslationExtensions /value | findstr /i "TRUE" > nul
+wmic cpu get VirtualizationFirmwareEnabled
 
 :: Verificamos el resultado de la búsqueda
 if %errorlevel%==0 (
