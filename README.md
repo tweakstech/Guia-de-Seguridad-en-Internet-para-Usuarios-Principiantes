@@ -1,4 +1,4 @@
-# Guía de Seguridad en Internet para Usuarios 👶 Principiantes: Protección 🛡️, Privacidad 🔒 y Herramientas Básicas 🛠️
+# Guía de Seguridad en Internet para Usuarios Principiantes: Protección, Privacidad y Herramientas Básicas
 
 Esta guía está diseñada para personas que no tienen conocimientos técnicos avanzados y buscan proteger su privacidad en línea sin necesidad de gastar dinero. Aquí encontrarás soluciones simples y gratuitas para mejorar la seguridad de tu dispositivo, proteger tu información personal y navegar de forma más segura en Internet. 
 
@@ -89,6 +89,24 @@ Antes de hacer clic en un enlace o abrir un archivo desconocido, es recomendable
 - **Otras páginas similares**: Existen otras plataformas que ofrecen servicios parecidos, aunque ninguna es 100% infalible.
 
 **Nota**: Aunque estas herramientas son útiles, no siempre detectan todos los riesgos, por lo que siempre es importante tener precaución.
+
+## 6. Seguridad al Usar Internet y Descarga de Contenido
+
+Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar por internet o descargar contenido. Aquí hay algunas recomendaciones clave:
+
+- **No instales juegos piratas**: Actualmente, muchos juegos son accesibles, ya sea porque son económicos o incluso gratuitos. Los juegos piratas suelen contener virus de todo tipo, incluidos programas de minería de criptomonedas que pueden comprometer tu equipo. Además, estas versiones violan los derechos del autor y fomentan actividades ilícitas.
+
+- **Películas y series en plataformas legales**: Hoy en día, las películas y series están disponibles en servicios legales a precios accesibles. Descargar contenido ilegal puede exponer tu dispositivo a virus y malware. Además, las plataformas legales ofrecen mayor calidad y seguridad.
+
+- **Descarga software solo de sitios oficiales**: Evita instalar programas innecesarios y asegúrate de obtenerlos siempre de sitios oficiales. Usa un bloqueador de anuncios, ya que algunos sitios falsifican páginas legítimas para hacerlas pasar como reales. Estos sitios suelen aparecer en los primeros resultados de búsqueda porque pagan para ser mostrados como anuncios.
+
+- **No hagas clic impulsivamente en enlaces**: Mantén el hábito de verificar los enlaces antes de abrirlos. Una buena práctica es copiar el enlace, pegarlo en un buscador y analizar los resultados para verificar su legitimidad o descubrir de qué trata.
+
+- **Evita ejecutar archivos PDF desconocidos**: Los archivos PDF pueden contener código malicioso, como JavaScript oculto, que podría realizar acciones no autorizadas en tu equipo. Para mayor seguridad, abre estos archivos en una sandbox o entorno controlado.
+
+- **No escanees códigos QR sin verificar**: Los códigos QR pueden redirigirte a enlaces maliciosos. Antes de escanear uno, utiliza plataformas que permitan verificar el destino para asegurarte de que es legítimo y seguro.
+
+**Nota**: Mantener estos hábitos no solo protege tu dispositivo, sino también tu información personal y tus cuentas en línea. La prevención es clave para una experiencia segura en internet.
 
 ---
 
