@@ -1,8 +1,16 @@
-# Guía de Seguridad en Internet para Usuarios Principiantes: Protección, Privacidad y Herramientas Básicas
+# 🛡️ Guía de Seguridad en Internet para Usuarios Principiantes: 🔒 Protección, 🕵️‍♂️ Privacidad y 🛠️ Herramientas Básicas
 
 Esta guía está diseñada para personas que no tienen conocimientos técnicos avanzados y buscan proteger su privacidad en línea sin necesidad de gastar dinero. Aquí encontrarás soluciones simples y gratuitas para mejorar la seguridad de tu dispositivo, proteger tu información personal y navegar de forma más segura en Internet. 
 
 A través de herramientas gratuitas, como navegadores seguros, cortafuegos simples y métodos de comprobación de archivos, podrás reducir los riesgos de amenazas en línea sin complicaciones. Esta guía te ayudará a configurar tu sistema para que puedas navegar tranquilo y proteger tus datos de forma básica y eficaz.
+
+# Índice 
+ - [1. Navegadores de Privacidad](#1-navegadores-de-privacidad)
+ - [2. Cortafuegos (Firewall)](#2-cortafuegos-firewall)
+ - [3. Configuración de Windows Defender (y evitar antivirus adicionales)](#3-configuración-de-windows-defender-y-evitar-antivirus-adicionales)
+ - [4. Uso de Entornos Seguros](#4-uso-de-entornos-seguros)
+ - [5. Comprobación de Archivos y Enlaces](#5-comprobación-de-archivos-y-enlaces)
+ - [6. Seguridad al Usar Internet y Descarga de Contenido](#6-seguridad-al-usar-internet-y-descarga-de-contenido)
 
 > [!NOTE]
 > Esta guía está orientada a usuarios principiantes, ofreciendo soluciones prácticas y asequibles para una navegación segura.
