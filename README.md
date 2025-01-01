@@ -15,11 +15,16 @@ A través de herramientas gratuitas, como navegadores seguros, cortafuegos simpl
 > [!NOTE]
 > Esta guía está orientada a usuarios principiantes, ofreciendo soluciones prácticas y asequibles para una navegación segura.
 
-## 1. Navegadores de Privacidad
-Es recomendable utilizar navegadores que prioricen la privacidad. Algunos ejemplos son:
+## 1. Navegadores de Privacidad  
+Es recomendable utilizar navegadores que prioricen la privacidad, especialmente al gestionar información sensible como datos bancarios y personales. Algunos ejemplos son:
 
-- **[Brave](https://brave.com)**: Un navegador que bloquea anuncios y rastreadores de manera predeterminada.
-- **[Firefox](https://www.mozilla.org/es-ES/firefox/)**: Asegúrate de configurar las opciones de privacidad en Firefox para aumentar tu seguridad en línea.
+- **[Brave](https://brave.com)**: Un navegador que bloquea anuncios y rastreadores de manera predeterminada. Además, ofrece características como protección contra huellas digitales y cookies de seguimiento.
+  
+- **[Firefox](https://www.mozilla.org/es-ES/firefox/)**: Asegúrate de configurar las opciones de privacidad en Firefox para aumentar tu seguridad en línea. Puedes utilizar extensiones como **Privacy Badger** o **uBlock Origin** para un mayor control sobre tu privacidad.
+
+- **[LibreWolf](https://librewolf.net/)**: Una versión de Firefox enfocada completamente en la privacidad y seguridad. LibreWolf elimina los rastreadores y las huellas digitales, y no envía datos de telemetría a Mozilla, lo que lo convierte en una excelente opción para actividades sensibles como la gestión de cuentas bancarias y otros datos personales. Además, su configuración predeterminada está orientada a maximizar la protección del usuario sin comprometer la funcionalidad.
+
+**Nota:** Evita usar **Google Chrome** debido a que recopila una gran cantidad de datos de telemetría, consume muchos recursos del sistema y suele tener más vulnerabilidades. Además, es importante mantener cualquier navegador actualizado al día para intentar prevenir futuras vulnerabilidades de seguridad.
 
 ### Extensiones Recomendadas:
 - Si usas **[Firefox](https://www.mozilla.org/es-ES/firefox/)**:
