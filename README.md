@@ -1,4 +1,4 @@
-# 🛡️ Guía de Seguridad en Internet para Usuarios Principiantes 👶: 🔒 Protección, 🕵️‍♂️ Privacidad y 🛠️ Herramientas Básicas
+# 🛡️ Guía de Seguridad en Internet para Usuarios Principiantes: 🔒 Protección, 🕵️‍♂️ Privacidad y 🛠️ Herramientas Básicas
 
 Esta guía está diseñada para personas que no tienen conocimientos técnicos avanzados y buscan proteger su privacidad en línea sin necesidad de gastar dinero. Aquí encontrarás soluciones simples y gratuitas para mejorar la seguridad de tu dispositivo, proteger tu información personal y navegar de forma más segura en Internet. 
 
@@ -94,6 +94,7 @@ Para estar más seguro al ejecutar archivos desconocidos:
 Antes de hacer clic en un enlace o abrir un archivo desconocido, es recomendable comprobarlo en sitios web que te alerten sobre posibles amenazas.
 
 - **[VirusTotal](https://www.virustotal.com)**: Puedes cargar un archivo o enlace en VirusTotal para ver si se detecta alguna amenaza.
+- **[URLScan](https://urlscan.io/)**: Permite analizar sitios web y enlaces sospechosos para detectar posibles riesgos o actividades maliciosas.
 - **Otras páginas similares**: Existen otras plataformas que ofrecen servicios parecidos, aunque ninguna es 100% infalible.
 
 **Nota**: Aunque estas herramientas son útiles, no siempre detectan todos los riesgos, por lo que siempre es importante tener precaución.
