@@ -95,9 +95,10 @@ Antes de hacer clic en un enlace o abrir un archivo desconocido, es recomendable
 
 - **[VirusTotal](https://www.virustotal.com)**: Puedes cargar un archivo o enlace en VirusTotal para ver si se detecta alguna amenaza.
 - **[URLScan](https://urlscan.io/)**: Permite analizar sitios web y enlaces sospechosos para detectar posibles riesgos o actividades maliciosas.
+- **[AbuseIPDB](https://www.abuseipdb.com/)**: Una herramienta para verificar direcciones IP sospechosas y determinar si han sido reportadas por actividades maliciosas.
 - **Otras páginas similares**: Existen otras plataformas que ofrecen servicios parecidos, aunque ninguna es 100% infalible.
 
-**Nota**: Aunque estas herramientas son útiles, no siempre detectan todos los riesgos, por lo que siempre es importante tener precaución.
+**Nota**: Aunque estas herramientas son útiles, no siempre detectan todos los riesgos
 
 ## 6. Seguridad al Usar Internet y Descarga de Contenido
 
