@@ -114,6 +114,8 @@ Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar po
 
 - **Evita ejecutar archivos PDF desconocidos**: Los archivos PDF pueden contener código malicioso, como JavaScript oculto, que podría realizar acciones no autorizadas en tu equipo. Para mayor seguridad, abre estos archivos en una sandbox o entorno controlado.
 
+- **Cuidado con archivos comprimidos protegidos con contraseña**: Los archivos comprimidos con contraseña pueden ser difíciles de analizar con un antivirus debido a la protección. Si dentro del archivo comprimido encuentras accesos directos o ejecutables, verifica cuidadosamente la URL que se abre o el archivo que ejecutan, ya que podrían tratarse de intentos de phishing. Es importante analizar los archivos antes de abrirlos.
+
 - **No escanees códigos QR sin verificar**: Los códigos QR pueden redirigirte a enlaces maliciosos. Antes de escanear uno, utiliza plataformas que permitan verificar el destino para asegurarte de que es legítimo y seguro.
 
 **Nota**: Mantener estos hábitos no solo protege tu dispositivo, sino también tu información personal y tus cuentas en línea. La prevención es clave para una experiencia segura en internet.
