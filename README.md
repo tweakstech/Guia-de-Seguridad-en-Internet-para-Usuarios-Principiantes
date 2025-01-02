@@ -11,6 +11,7 @@ A través de herramientas gratuitas, como navegadores seguros, cortafuegos simpl
  - [4. Uso de Entornos Seguros](#4-uso-de-entornos-seguros)
  - [5. Comprobación de Archivos y Enlaces](#5-comprobación-de-archivos-y-enlaces)
  - [6. Seguridad al Usar Internet y Descarga de Contenido](#6-seguridad-al-usar-internet-y-descarga-de-contenido)
+ - [7. Minimizar Exposición al Riesgo](#7-minimizar-exposición-al-riesgo)
 
 > [!NOTE]
 > Esta guía está orientada a usuarios principiantes, ofreciendo soluciones prácticas y asequibles para una navegación segura.
@@ -125,9 +126,17 @@ Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar po
 
 **Nota**: Mantener estos hábitos no solo protege tu dispositivo, sino también tu información personal y tus cuentas en línea. La prevención es clave para una experiencia segura en internet.
 
----
+## 7. Minimizar Exposición al Riesgo
 
-**Recuerda**: La clave para estar seguro en Internet es mantener tus herramientas de seguridad actualizadas y ser precavido con lo que abres y haces clic.
+Para mitigar futuras vulnerabilidades, es fundamental reducir la superficie de ataque de tu equipo. Esto implica seguir estas recomendaciones clave:
+
+- **No instales software innecesario**: Limita la instalación de aplicaciones únicamente a aquellas que sean esenciales para tus necesidades.
+- **Desinstala lo que no utilices**: Revisa regularmente las aplicaciones instaladas y elimina aquellas que ya no sean necesarias.
+- **Desactiva lo que no uses**: Características como Wi-Fi, Bluetooth u otras conexiones no utilizadas pueden convertirse en vectores de ataque. Desactívalas cuando no las necesites. 
+- **Verifica que todo esté actualizado**: Asegúrate de que las aplicaciones, el sistema operativo, los controladores y el software del hardware estén actualizados a la versión más reciente. Las actualizaciones suelen incluir parches de seguridad importantes.
+
+> [!IMPORTANT]
+> No desactives características de seguridad como Windows Defender, ya que estas son cruciales para proteger tu sistema frente a amenazas conocidas y emergentes.
 
 ---
 
