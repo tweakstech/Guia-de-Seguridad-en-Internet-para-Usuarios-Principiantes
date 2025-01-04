@@ -13,10 +13,14 @@ A través de herramientas gratuitas, como navegadores seguros, cortafuegos simpl
  - [6. Seguridad al Usar Internet y Descarga de Contenido](#6-seguridad-al-usar-internet-y-descarga-de-contenido)
  - [7. Minimizar Exposición al Riesgo](#7-minimizar-exposición-al-riesgo)
 
+
 > [!NOTE]
 > Esta guía está orientada a usuarios principiantes, ofreciendo soluciones prácticas y asequibles para una navegación segura.
 
-## 1. Navegadores de Privacidad  
+## 1. Navegadores de Privacidad 
+
+ [Indice](#%C3%ADndice)
+ 
 Es recomendable utilizar navegadores que prioricen la privacidad, especialmente al gestionar información sensible como datos bancarios y personales. Algunos ejemplos son:
 
 - **[Brave](https://brave.com)**: Un navegador que bloquea anuncios y rastreadores de manera predeterminada. Además, ofrece características como protección contra huellas digitales y cookies de seguimiento.
@@ -28,6 +32,9 @@ Es recomendable utilizar navegadores que prioricen la privacidad, especialmente 
 **Nota:** Evita usar **Google Chrome** debido a que recopila una gran cantidad de datos de telemetría, consume muchos recursos del sistema y suele tener más vulnerabilidades. Además, es importante mantener cualquier navegador actualizado al día para intentar prevenir futuras vulnerabilidades de seguridad.
 
 ### Extensiones Recomendadas:
+
+ [Indice](#%C3%ADndice)
+ 
 - Si usas **[Firefox](https://www.mozilla.org/es-ES/firefox/)**:
   - **[Privacy Badger](https://privacybadger.org/es/)**: Bloquea rastreadores invisibles mientras navegas.
   - **[Ghostery](https://www.ghostery.com)**: Ayuda a bloquear anuncios y rastreadores para una navegación más segura.
@@ -45,6 +52,8 @@ Es recomendable utilizar navegadores que prioricen la privacidad, especialmente 
 
 ## 2. Cortafuegos (Firewall)
 
+ [Indice](#%C3%ADndice)
+ 
 Usar un cortafuegos es esencial para controlar el acceso a tu red y proteger tu equipo de conexiones no deseadas.
 
 Algunas opciones de cortafuegos son:
@@ -58,6 +67,9 @@ Algunas opciones de cortafuegos son:
 > Configura tu cortafuegos para que bloquee aplicaciones y conexiones no deseadas de forma predeterminada.
 
 ## 3. Configuración de Windows Defender (y evitar antivirus adicionales)
+
+ [Indice](#%C3%ADndice)
+ 
 En lugar de usar programas antivirus complicados, puedes confiar en **Windows Defender**, que es suficiente para la mayoría de los usuarios. Solo asegúrate de tenerlo activado y actualizado.
 
 **Pasos para configurar Windows Defender:**
@@ -68,6 +80,9 @@ En lugar de usar programas antivirus complicados, puedes confiar en **Windows De
 > Evita descargar programas antivirus de fuentes no confiables, ya que podrían comprometer tu seguridad.
 
 ## 4. Uso de Entornos Seguros
+
+ [Indice](#%C3%ADndice)
+ 
 Para estar más seguro al ejecutar archivos desconocidos:
 
 - Utiliza **Espacio aislado de Windows** o **Máquinas Virtuales** (como **[VirtualBox](https://www.virtualbox.org/)**) para probar archivos antes de ejecutarlos en tu sistema.
@@ -98,6 +113,8 @@ Para estar más seguro al ejecutar archivos desconocidos:
 
 ## 5. Comprobación de Archivos y Enlaces
 
+ [Indice](#%C3%ADndice)
+ 
 Antes de hacer clic en un enlace o abrir un archivo desconocido, sigue estos pasos para asegurarte de que no contienen amenazas:
 
 1. **Escanear el archivo o enlace con VirusTotal**  
@@ -123,6 +140,8 @@ Antes de hacer clic en un enlace o abrir un archivo desconocido, sigue estos pas
 
 ## 6. Seguridad al Usar Internet y Descarga de Contenido
 
+ [Indice](#%C3%ADndice)
+ 
 Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar por internet o descargar contenido. Aquí hay algunas recomendaciones clave:
 
 - **No instales juegos piratas**: Actualmente, muchos juegos son accesibles, ya sea porque son económicos o incluso gratuitos. Los juegos piratas suelen contener virus de todo tipo, incluidos programas de minería de criptomonedas que pueden comprometer tu equipo. Además, estas versiones violan los derechos del autor y fomentan actividades ilícitas.
@@ -143,6 +162,8 @@ Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar po
 
 ## 7. Minimizar Exposición al Riesgo
 
+ [Indice](#%C3%ADndice)
+ 
 Para mitigar futuras vulnerabilidades, es fundamental reducir la superficie de ataque de tu equipo. Esto implica seguir estas recomendaciones clave:
 
 - **No instales software innecesario**: Limita la instalación de aplicaciones únicamente a aquellas que sean esenciales para tus necesidades.
