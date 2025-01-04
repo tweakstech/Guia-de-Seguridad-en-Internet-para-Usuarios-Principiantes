@@ -97,14 +97,29 @@ Para estar más seguro al ejecutar archivos desconocidos:
 > Recuerda habilitar la virtualización en tu BIOS/UEFI antes de intentar usar el Espacio aislado de Windows.
 
 ## 5. Comprobación de Archivos y Enlaces
-Antes de hacer clic en un enlace o abrir un archivo desconocido, es recomendable comprobarlo en sitios web que te alerten sobre posibles amenazas.
 
-- **[VirusTotal](https://www.virustotal.com)**: Puedes cargar un archivo o enlace en VirusTotal para ver si se detecta alguna amenaza.
-- **[URLScan](https://urlscan.io/)**: Permite analizar sitios web y enlaces sospechosos para detectar posibles riesgos o actividades maliciosas.
-- **[AbuseIPDB](https://www.abuseipdb.com/)**: Una herramienta para verificar direcciones IP sospechosas y determinar si han sido reportadas por actividades maliciosas.
-- **Otras páginas similares**: Existen otras plataformas que ofrecen servicios parecidos, aunque ninguna es 100% infalible.
+Antes de hacer clic en un enlace o abrir un archivo desconocido, sigue estos pasos para asegurarte de que no contienen amenazas:
 
-**Nota**: Aunque estas herramientas son útiles, no siempre detectan todos los riesgos
+1. **Escanear el archivo o enlace con VirusTotal**  
+   - Visita [VirusTotal](https://www.virustotal.com).  
+   - Sube el archivo o introduce el enlace para analizarlo.  
+   - Revisa los resultados para detectar posibles amenazas.
+
+2. **Analizar el enlace con URLScan**  
+   - Ve a [URLScan](https://urlscan.io).  
+   - Introduce el enlace para analizar su contenido y comportamiento.  
+   - Toma nota de la dirección IP asociada al enlace que aparece en el análisis.
+
+3. **Verificar la IP en AbuseIPDB**  
+   - Copia la dirección IP obtenida en URLScan.  
+   - Ingresa a [AbuseIPDB](https://www.abuseipdb.com).  
+   - Busca la IP para verificar si ha sido reportada por actividades maliciosas.  
+   - Analiza los resultados para determinar si el enlace es seguro.
+
+4. **Otras herramientas útiles**  
+   Existen otras plataformas similares que pueden complementar el análisis, aunque ninguna es completamente infalible.
+
+**Nota**: Estas herramientas son muy útiles, pero no garantizan una seguridad total. Usa siempre tu criterio antes de interactuar con contenido desconocido.
 
 ## 6. Seguridad al Usar Internet y Descarga de Contenido
 
