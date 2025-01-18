@@ -85,6 +85,8 @@ Para configurar y controlar Windows Defender de manera más avanzada, puedes uti
   
 - [**Defender Exclusion Tool v1.4**](https://www.sordum.org/10636/defender-exclusion-tool-v1-4/): Herramienta para agregar exclusiones en Windows Defender, lo que permite que ciertos archivos o carpetas sean ignorados por el antivirus, útil cuando se necesitan excepciones para software o archivos específicos.
 
+- [**Windows Hardening Scripts (GitHub)**](https://github.com/atlantsecurity/windows-hardening-scripts): Conjunto de scripts de endurecimiento de Windows que automatizan la implementación de configuraciones de seguridad avanzadas para proteger tu sistema contra vulnerabilidades y amenazas. Es una excelente opción para usuarios avanzados que desean mejorar la seguridad de su equipo.
+
 ## 4. Uso de Entornos Seguros
 
  [Indice](#%C3%ADndice)
