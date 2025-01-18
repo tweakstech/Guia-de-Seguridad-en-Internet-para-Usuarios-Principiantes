@@ -69,7 +69,7 @@ Algunas opciones de cortafuegos son:
 ## 3. Configuración de Windows Defender (y evitar antivirus adicionales)
 
  [Indice](#%C3%ADndice)
- 
+
 En lugar de usar programas antivirus complicados, puedes confiar en **Windows Defender**, que es suficiente para la mayoría de los usuarios. Solo asegúrate de tenerlo activado y actualizado.
 
 **Pasos para configurar Windows Defender:**
@@ -78,6 +78,10 @@ En lugar de usar programas antivirus complicados, puedes confiar en **Windows De
 
 > [!WARNING]
 > Evita descargar programas antivirus de fuentes no confiables, ya que podrían comprometer tu seguridad.
+
+Para configurar y controlar Windows Defender de manera más avanzada, puedes utilizar las siguientes herramientas:
+- [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
+- [Defender Exclusion Tool v1.4](https://www.sordum.org/10636/defender-exclusion-tool-v1-4/)
 
 ## 4. Uso de Entornos Seguros
 
