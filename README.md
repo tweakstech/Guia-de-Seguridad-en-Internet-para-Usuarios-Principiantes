@@ -80,8 +80,10 @@ En lugar de usar programas antivirus complicados, puedes confiar en **Windows De
 > Evita descargar programas antivirus de fuentes no confiables, ya que podrían comprometer tu seguridad.
 
 Para configurar y controlar Windows Defender de manera más avanzada, puedes utilizar las siguientes herramientas:
-- [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
-- [Defender Exclusion Tool v1.4](https://www.sordum.org/10636/defender-exclusion-tool-v1-4/)
+
+- [**Defender Control v2.1**](https://www.sordum.org/9480/defender-control-v2-1/): Esta herramienta permite habilitar o deshabilitar Windows Defender de manera rápida y sencilla. Ideal para usuarios que desean tener un control más flexible sobre la protección del sistema.
+  
+- [**Defender Exclusion Tool v1.4**](https://www.sordum.org/10636/defender-exclusion-tool-v1-4/): Herramienta para agregar exclusiones en Windows Defender, lo que permite que ciertos archivos o carpetas sean ignorados por el antivirus, útil cuando se necesitan excepciones para software o archivos específicos.
 
 ## 4. Uso de Entornos Seguros
 
