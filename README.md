@@ -4,23 +4,20 @@ Esta guía está diseñada para personas que no tienen conocimientos técnicos a
 
 A través de herramientas gratuitas, como navegadores seguros, cortafuegos simples y métodos de comprobación de archivos, podrás reducir los riesgos de amenazas en línea sin complicaciones. Esta guía te ayudará a configurar tu sistema para que puedas navegar tranquilo y proteger tus datos de forma básica y eficaz.
 
-# Índice 
- - [1. Navegadores de Privacidad](#1-navegadores-de-privacidad)
- - [2. Cortafuegos (Firewall)](#2-cortafuegos-firewall)
- - [3. Configuración de Windows Defender (y evitar antivirus adicionales)](#3-configuración-de-windows-defender-y-evitar-antivirus-adicionales)
- - [4. Uso de Entornos Seguros](#4-uso-de-entornos-seguros)
- - [5. Comprobación de Archivos y Enlaces](#5-comprobación-de-archivos-y-enlaces)
- - [6. Seguridad al Usar Internet y Descarga de Contenido](#6-seguridad-al-usar-internet-y-descarga-de-contenido)
- - [7. Minimizar Exposición al Riesgo](#7-minimizar-exposición-al-riesgo)
-
+# Índice
+- [1. Navegadores de Privacidad](#1-navegadores-de-privacidad)
+- [2. Cortafuegos (Firewall)](#2-cortafuegos-firewall)
+- [3. Configuración de Windows Defender (y evitar antivirus adicionales)](#3-configuración-de-windows-defender-y-evitar-antivirus-adicionales)
+- [4. Uso de Entornos Seguros](#4-uso-de-entornos-seguros)
+- [5. Comprobación de Archivos y Enlaces](#5-comprobación-de-archivos-y-enlaces)
+- [6. Seguridad al Usar Internet y Descarga de Contenido](#6-seguridad-al-usar-internet-y-descarga-de-contenido)
+- [7. Minimizar Exposición al Riesgo](#7-minimizar-exposición-al-riesgo)
+- [8. Precauciones al Usar Enlaces](#8-precauciones-al-usar-enlaces)
 
 > [!NOTE]
 > Esta guía está orientada a usuarios principiantes, ofreciendo soluciones prácticas y asequibles para una navegación segura.
 
-## 1. Navegadores de Privacidad 
-
- [Indice](#%C3%ADndice)
- 
+## 1. Navegadores de Privacidad  
 Es recomendable utilizar navegadores que prioricen la privacidad, especialmente al gestionar información sensible como datos bancarios y personales. Algunos ejemplos son:
 
 - **[Brave](https://brave.com)**: Un navegador que bloquea anuncios y rastreadores de manera predeterminada. Además, ofrece características como protección contra huellas digitales y cookies de seguimiento.
@@ -32,9 +29,6 @@ Es recomendable utilizar navegadores que prioricen la privacidad, especialmente 
 **Nota:** Evita usar **Google Chrome** debido a que recopila una gran cantidad de datos de telemetría, consume muchos recursos del sistema y suele tener más vulnerabilidades. Además, es importante mantener cualquier navegador actualizado al día para intentar prevenir futuras vulnerabilidades de seguridad.
 
 ### Extensiones Recomendadas:
-
- [Indice](#%C3%ADndice)
- 
 - Si usas **[Firefox](https://www.mozilla.org/es-ES/firefox/)**:
   - **[Privacy Badger](https://privacybadger.org/es/)**: Bloquea rastreadores invisibles mientras navegas.
   - **[Ghostery](https://www.ghostery.com)**: Ayuda a bloquear anuncios y rastreadores para una navegación más segura.
@@ -52,8 +46,6 @@ Es recomendable utilizar navegadores que prioricen la privacidad, especialmente 
 
 ## 2. Cortafuegos (Firewall)
 
- [Indice](#%C3%ADndice)
- 
 Usar un cortafuegos es esencial para controlar el acceso a tu red y proteger tu equipo de conexiones no deseadas.
 
 Algunas opciones de cortafuegos son:
@@ -88,9 +80,6 @@ Para configurar y controlar Windows Defender de manera más avanzada, puedes uti
 - [**Windows Hardening Scripts (GitHub)**](https://github.com/atlantsecurity/windows-hardening-scripts): Conjunto de scripts de endurecimiento de Windows que automatizan la implementación de configuraciones de seguridad avanzadas para proteger tu sistema contra vulnerabilidades y amenazas. Es una excelente opción para usuarios avanzados que desean mejorar la seguridad de su equipo.
 
 ## 4. Uso de Entornos Seguros
-
- [Indice](#%C3%ADndice)
- 
 Para estar más seguro al ejecutar archivos desconocidos:
 
 - Utiliza **Espacio aislado de Windows** o **Máquinas Virtuales** (como **[VirtualBox](https://www.virtualbox.org/)**) para probar archivos antes de ejecutarlos en tu sistema.
@@ -121,8 +110,6 @@ Para estar más seguro al ejecutar archivos desconocidos:
 
 ## 5. Comprobación de Archivos y Enlaces
 
- [Indice](#%C3%ADndice)
- 
 Antes de hacer clic en un enlace o abrir un archivo desconocido, sigue estos pasos para asegurarte de que no contienen amenazas:
 
 1. **Escanear el archivo o enlace con VirusTotal**  
@@ -148,8 +135,6 @@ Antes de hacer clic en un enlace o abrir un archivo desconocido, sigue estos pas
 
 ## 6. Seguridad al Usar Internet y Descarga de Contenido
 
- [Indice](#%C3%ADndice)
- 
 Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar por internet o descargar contenido. Aquí hay algunas recomendaciones clave:
 
 - **No instales juegos piratas**: Actualmente, muchos juegos son accesibles, ya sea porque son económicos o incluso gratuitos. Los juegos piratas suelen contener virus de todo tipo, incluidos programas de minería de criptomonedas que pueden comprometer tu equipo. Además, estas versiones violan los derechos del autor y fomentan actividades ilícitas.
@@ -158,7 +143,7 @@ Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar po
 
 - **Descarga software solo de sitios oficiales**: Evita instalar programas innecesarios y asegúrate de obtenerlos siempre de sitios oficiales. Usa un bloqueador de anuncios, ya que algunos sitios falsifican páginas legítimas para hacerlas pasar como reales. Estos sitios suelen aparecer en los primeros resultados de búsqueda porque pagan para ser mostrados como anuncios.
 
-- **No hagas clic impulsivamente en enlaces**: Mantén el hábito de verificar los enlaces antes de abrirlos. Una buena práctica es copiar el enlace, pegarlo en un buscador y analizar los resultados para verificar su legitimidad o descubrir de qué trata.
+- **No hagas clic impulsivamente en enlaces**: Mantén el hábito de verificar los enlaces antes de abrirlos. Una buena práctica es escribir parte de la URL en un buscador y analizar los resultados para verificar su legitimidad o descubrir de qué trata.
 
 - **Evita ejecutar archivos PDF desconocidos**: Los archivos PDF pueden contener código malicioso, como JavaScript oculto, que podría realizar acciones no autorizadas en tu equipo. Para mayor seguridad, abre estos archivos en una sandbox o entorno controlado.
 
@@ -170,8 +155,6 @@ Es fundamental seguir buenas prácticas para protegerte de riesgos al navegar po
 
 ## 7. Minimizar Exposición al Riesgo
 
- [Indice](#%C3%ADndice)
- 
 Para mitigar futuras vulnerabilidades, es fundamental reducir la superficie de ataque de tu equipo. Esto implica seguir estas recomendaciones clave:
 
 - **No instales software innecesario**: Limita la instalación de aplicaciones únicamente a aquellas que sean esenciales para tus necesidades.
@@ -181,6 +164,12 @@ Para mitigar futuras vulnerabilidades, es fundamental reducir la superficie de a
 
 > [!IMPORTANT]
 > No desactives características de seguridad como Windows Defender, ya que estas son cruciales para proteger tu sistema frente a amenazas conocidas y emergentes.
+
+## 8. Precauciones al Usar Enlaces
+
+Antes de hacer clic en un enlace, sigue esta práctica clave para evitar riesgos:
+
+- **Verifica el enlace antes de abrirlo**: Pasa el mouse sobre el enlace y observa en la parte inferior de la página si la URL que aparece corresponde a la fuente que esperas. Esto ayuda a evitar sitios maliciosos y posibles intentos de phishing.
 
 ---
 
