@@ -50,9 +50,12 @@ Usar un cortafuegos es esencial para controlar el acceso a tu red y proteger tu 
 
 Algunas opciones de cortafuegos son:
 
-- **[SimpleWall](https://github.com/henrypp/simplewall)**: Un firewall sencillo y fácil de usar.
-- **[TinyWall](https://tinywall.pados.hu)**: Ofrece protección adicional sin requerir demasiada configuración.
-- **[Portmaster](https://safing.io/portmaster/)**: Un cortafuegos completo y gratuito para Windows que ofrece control avanzado sobre las conexiones de red, con un enfoque en la privacidad y la seguridad.
+- **[SimpleWall](https://www.henrypp.org/product/simplewall)**: Para usuarios con un poco de conocimiento que quieren protección sin preocuparse. Es más personalizado con más control, alerta de cada intento de conexión entrante o saliente y le da la opción de bloquear o permitir. Además, puedes ver qué conexiones hay en tiempo real, como por ejemplo saber cuándo actúa la telemetría y cuándo envía los datos a Microsoft, de una manera fácil. Si buscas un firewall con mayor control sin complicaciones, SimpleWall es la elección.
+  
+- **[TinyWall](https://tinywall.pados.hu/)**: Para usuarios convencionales sin conocimiento que quieren protección fácil. Es más automático, bloquea todo y le da acceso solo a las conexiones que se le indiquen, sin necesidad de configuraciones complicadas.
+
+- **[Portmaster](https://safing.io/portmaster/)**: Un cortafuegos completo y gratuito para Windows que ofrece control avanzado sobre las conexiones de red, con un enfoque en la privacidad y la seguridad. Es ideal para usuarios con conocimiento que quieren protección máxima y un control total sobre las conexiones.
+
 - **[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)**: Un firewall avanzado para macOS que permite controlar las conexiones de red de forma detallada y proteger tu privacidad en línea.
 
 > [!IMPORTANT]
