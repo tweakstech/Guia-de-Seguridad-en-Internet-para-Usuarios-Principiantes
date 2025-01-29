@@ -13,6 +13,7 @@ A través de herramientas gratuitas, como navegadores seguros, cortafuegos simpl
 - [6. Seguridad al Usar Internet y Descarga de Contenido](#6-seguridad-al-usar-internet-y-descarga-de-contenido)
 - [7. Minimizar Exposición al Riesgo](#7-minimizar-exposición-al-riesgo)
 - [8. Precauciones al Usar Enlaces](#8-precauciones-al-usar-enlaces)
+- [9. Acceso Seguro a Sitios Oficiales](#9-acceso-seguro-a-sitios-oficiales)
 
 > [!NOTE]
 > Esta guía está orientada a usuarios principiantes, ofreciendo soluciones prácticas y asequibles para una navegación segura.
@@ -29,6 +30,7 @@ Es recomendable utilizar navegadores que prioricen la privacidad, especialmente 
 **Nota:** Evita usar **Google Chrome** debido a que recopila una gran cantidad de datos de telemetría, consume muchos recursos del sistema y suele tener más vulnerabilidades. Además, es importante mantener cualquier navegador actualizado al día para intentar prevenir futuras vulnerabilidades de seguridad.
 
 ### Extensiones Recomendadas:
+
 - Si usas **[Firefox](https://www.mozilla.org/es-ES/firefox/)**:
   - **[Privacy Badger](https://privacybadger.org/es/)**: Bloquea rastreadores invisibles mientras navegas.
   - **[Ghostery](https://www.ghostery.com)**: Ayuda a bloquear anuncios y rastreadores para una navegación más segura.
@@ -40,6 +42,18 @@ Es recomendable utilizar navegadores que prioricen la privacidad, especialmente 
 
 - **[SquareX](https://sqrx.com/)**:
   - Una extensión todo-en-uno que proporciona una **sandbox** (aislación segura para navegación), **mail temporal** (para crear correos desechables) y **VPN** (para ocultar tu ubicación y proteger tu conexión). Ideal para quienes buscan un paquete completo de privacidad y seguridad en línea.
+
+- **[Malwarebytes Safe Browser](https://www.malwarebytes.com/es/solutions/safe-browser)**:
+  - Extensión que convierte tu navegador en uno más seguro, bloqueando anuncios, rastreadores, malware y estafas, además de proteger contra sitios web peligrosos.
+
+- **[Popup Blocker (Strict)](https://chromewebstore.google.com/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg?hl=es)**:
+  - Bloquea ventanas emergentes y permite ver la URL a la que intentan redirigir antes de abrirse, ayudando a evitar sitios maliciosos.
+
+- **[Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=es)**:
+  - Permite instalar scripts personalizados, incluyendo aquellos que ayudan a evitar anuncios o mejorar la privacidad.
+
+- **[Bypass All Shortlinks (Debloated)](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**:
+  - Extensión diseñada para saltar acortadores de enlaces automáticamente, ahorrando tiempo y evitando publicidad innecesaria.
 
 > [!TIP]
 > Configurar extensiones de privacidad es un paso simple pero efectivo para evitar rastreadores y anuncios intrusivos.
@@ -173,6 +187,13 @@ Para mitigar futuras vulnerabilidades, es fundamental reducir la superficie de a
 Antes de hacer clic en un enlace, sigue esta práctica clave para evitar riesgos:
 
 - **Verifica el enlace antes de abrirlo**: Pasa el mouse sobre el enlace y observa en la parte inferior de la página si la URL que aparece corresponde a la fuente que esperas. Esto ayuda a evitar sitios maliciosos y posibles intentos de phishing.
+
+## 9. Acceso Seguro a Sitios Oficiales
+
+Una de las mejores formas de garantizar que accedes a sitios web oficiales y confiables es creando marcadores de los sitios que visitas con frecuencia. Aquí te explicamos cómo hacerlo:
+
+- **Crea marcadores para tus sitios favoritos**: En lugar de buscar constantemente en Google o hacer clic en enlaces de correos electrónicos, agrega los sitios que visitas frecuentemente a tus marcadores. De esta forma, podrás acceder directamente a las páginas oficiales sin riesgo de caer en sitios falsificados o maliciosos.
+- **Verifica la URL**: Asegúrate de que los marcadores siempre apunten a las URLs correctas. Es una excelente forma de evitar caer en sitios fraudulentos o de phishing.
 
 ---
 
